@@ -1,0 +1,161 @@
+FEMA-COMPATIBLE DAMAGE ASSESSMENT REPORT
+============================================================
+Report Generated: 2026-04-26 07:09:05
+Incident Type: Flood / Disaster Damage Assessment
+Assessment Method: Pre-disaster video frames compared with post-disaster aerial video frames
+Data Sources: Before video frames, After disaster video frames, image change scoring
+
+SUMMARY
+------------------------------------------------------------
+Total Assessed Segments: 16
+No Damage: 0
+Minor: 0
+Moderate: 5
+Severe: 8
+Destroyed: 3
+
+DETAILED FINDINGS
+------------------------------------------------------------
+Assessment ID: DA-0000
+Timestamp: 00:00
+Damage Type: Flood / structural visual change
+Severity Classification: Moderate
+Change Score: 44.05
+Recommended Action: Schedule field validation and monitor closely
+Evidence Before Frame: ../data/before_frames/before_0000.jpg
+Evidence After Frame: ../data/after_frames/after_0000.jpg
+
+Assessment ID: DA-0005
+Timestamp: 00:05
+Damage Type: Flood / structural visual change
+Severity Classification: Moderate
+Change Score: 45.18
+Recommended Action: Schedule field validation and monitor closely
+Evidence Before Frame: ../data/before_frames/before_0005.jpg
+Evidence After Frame: ../data/after_frames/after_0005.jpg
+
+Assessment ID: DA-0010
+Timestamp: 00:10
+Damage Type: Flood / structural visual change
+Severity Classification: Severe
+Change Score: 60.77
+Recommended Action: Immediate field inspection and emergency response prioritization
+Evidence Before Frame: ../data/before_frames/before_0010.jpg
+Evidence After Frame: ../data/after_frames/after_0010.jpg
+
+Assessment ID: DA-0015
+Timestamp: 00:15
+Damage Type: Flood / structural visual change
+Severity Classification: Severe
+Change Score: 53.49
+Recommended Action: Immediate field inspection and emergency response prioritization
+Evidence Before Frame: ../data/before_frames/before_0015.jpg
+Evidence After Frame: ../data/after_frames/after_0015.jpg
+
+Assessment ID: DA-0020
+Timestamp: 00:20
+Damage Type: Flood / structural visual change
+Severity Classification: Severe
+Change Score: 54.59
+Recommended Action: Immediate field inspection and emergency response prioritization
+Evidence Before Frame: ../data/before_frames/before_0020.jpg
+Evidence After Frame: ../data/after_frames/after_0020.jpg
+
+Assessment ID: DA-0025
+Timestamp: 00:25
+Damage Type: Flood / structural visual change
+Severity Classification: Severe
+Change Score: 61.53
+Recommended Action: Immediate field inspection and emergency response prioritization
+Evidence Before Frame: ../data/before_frames/before_0025.jpg
+Evidence After Frame: ../data/after_frames/after_0025.jpg
+
+Assessment ID: DA-0030
+Timestamp: 00:30
+Damage Type: Flood / structural visual change
+Severity Classification: Severe
+Change Score: 56.86
+Recommended Action: Immediate field inspection and emergency response prioritization
+Evidence Before Frame: ../data/before_frames/before_0030.jpg
+Evidence After Frame: ../data/after_frames/after_0030.jpg
+
+Assessment ID: DA-0035
+Timestamp: 00:35
+Damage Type: Flood / structural visual change
+Severity Classification: Severe
+Change Score: 60.91
+Recommended Action: Immediate field inspection and emergency response prioritization
+Evidence Before Frame: ../data/before_frames/before_0035.jpg
+Evidence After Frame: ../data/after_frames/after_0035.jpg
+
+Assessment ID: DA-0040
+Timestamp: 00:40
+Damage Type: Flood / structural visual change
+Severity Classification: Destroyed
+Change Score: 72.51
+Recommended Action: Immediate field inspection and emergency response prioritization
+Evidence Before Frame: ../data/before_frames/before_0040.jpg
+Evidence After Frame: ../data/after_frames/after_0040.jpg
+
+Assessment ID: DA-0045
+Timestamp: 00:45
+Damage Type: Flood / structural visual change
+Severity Classification: Severe
+Change Score: 69.02
+Recommended Action: Immediate field inspection and emergency response prioritization
+Evidence Before Frame: ../data/before_frames/before_0045.jpg
+Evidence After Frame: ../data/after_frames/after_0045.jpg
+
+Assessment ID: DA-0050
+Timestamp: 00:50
+Damage Type: Flood / structural visual change
+Severity Classification: Severe
+Change Score: 51.95
+Recommended Action: Immediate field inspection and emergency response prioritization
+Evidence Before Frame: ../data/before_frames/before_0050.jpg
+Evidence After Frame: ../data/after_frames/after_0050.jpg
+
+Assessment ID: DA-0055
+Timestamp: 00:55
+Damage Type: Flood / structural visual change
+Severity Classification: Moderate
+Change Score: 44.73
+Recommended Action: Schedule field validation and monitor closely
+Evidence Before Frame: ../data/before_frames/before_0055.jpg
+Evidence After Frame: ../data/after_frames/after_0055.jpg
+
+Assessment ID: DA-0060
+Timestamp: 01:00
+Damage Type: Flood / structural visual change
+Severity Classification: Moderate
+Change Score: 33.49
+Recommended Action: Schedule field validation and monitor closely
+Evidence Before Frame: ../data/before_frames/before_0060.jpg
+Evidence After Frame: ../data/after_frames/after_0060.jpg
+
+Assessment ID: DA-0065
+Timestamp: 01:05
+Damage Type: Flood / structural visual change
+Severity Classification: Moderate
+Change Score: 36.69
+Recommended Action: Schedule field validation and monitor closely
+Evidence Before Frame: ../data/before_frames/before_0065.jpg
+Evidence After Frame: ../data/after_frames/after_0065.jpg
+
+Assessment ID: DA-0070
+Timestamp: 01:10
+Damage Type: Flood / structural visual change
+Severity Classification: Destroyed
+Change Score: 73.13
+Recommended Action: Immediate field inspection and emergency response prioritization
+Evidence Before Frame: ../data/before_frames/before_0070.jpg
+Evidence After Frame: ../data/after_frames/after_0070.jpg
+
+Assessment ID: DA-0075
+Timestamp: 01:15
+Damage Type: Flood / structural visual change
+Severity Classification: Destroyed
+Change Score: 73.04
+Recommended Action: Immediate field inspection and emergency response prioritization
+Evidence Before Frame: ../data/before_frames/before_0075.jpg
+Evidence After Frame: ../data/after_frames/after_0075.jpg
